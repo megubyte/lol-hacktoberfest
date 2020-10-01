@@ -1,3 +1,3 @@
 # LOL, Hacktoberfest
 
-Awesome
+Awesome project!
